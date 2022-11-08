@@ -1,9 +1,10 @@
 TITLE:
-    Build a Machine Learning Placement Prediction. Placement Prediction data (sr.no, gender, ssc_p, .....etc)
+
+Build a Machine Learning Placement Prediction. Placement Prediction data (sr.no, gender, ssc_p, .....etc)
 
 PREDICTING PLACEMENT IN CAMPUS RECRUITMENT:
 
-    As we all know that in every college there are on-Campus placements. For that they collect Students educational information from 10 th onwards. On the basis of Qualification, Aptitude test, Group Discussion and tests students are being selected for campus. We are having dataset for campus . Student details are given including marks, grades, specialization and many more.
+As we all know that in every college there are on-Campus placements. For that they collect Students educational information from 10 th onwards. On the basis of Qualification, Aptitude test, Group Discussion and tests students are being selected for campus. We are having dataset for campus . Student details are given including marks, grades, specialization and many more.
 Based on this features we have to predict whether the student will be placed or not. So by using ML Algorithm we will be predicting student will be placed or not.
 
 Project Description
